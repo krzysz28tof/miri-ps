@@ -5,6 +5,7 @@ mod fd;
 mod fs;
 mod mem;
 mod poll;
+mod process;
 mod socket;
 mod socket_address;
 mod sync;
